@@ -1,0 +1,32 @@
+.footer{
+    background-color: #2C3E50;
+    color: white;
+}
+.text{
+    text-align: center;
+    padding: 50px 40px;
+}
+.item{
+    padding: 16px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    border: solid 1.5px white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+.endFooter{
+    background-color: #1A252F;
+    color: #F0F8FF;
+    text-align: center;
+    padding: 10px;
+}
